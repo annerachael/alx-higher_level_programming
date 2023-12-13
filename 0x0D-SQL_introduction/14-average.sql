@@ -1,3 +1,2 @@
---Compute avg score of all records in seconf table
---result column should be average
+-- Compute avg score of all records in seconf table
 SELECT AVG(`score`) AS average FROM `second_table`;
