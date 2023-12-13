@@ -1,1 +1,2 @@
-SELECT * FROM hbtn_0c_0.second_table;
+--lists a;ll records from seconf table
+SELECT * FROM `second_table`;

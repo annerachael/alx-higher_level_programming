@@ -1,1 +1,2 @@
-INSERT INTO hbtn_0c_0.first_name VALUES (id 89, name BestSchool);
+--Insert records to table
+INSERT INTO `first_name`(`id`, `name`) VALUES (89, "BestSchool");

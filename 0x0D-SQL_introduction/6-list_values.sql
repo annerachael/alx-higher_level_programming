@@ -1,1 +1,2 @@
-SELECT * FROM hbtn_0c_0.first_table;
+--list all rows from table and db
+SELECT * FROM `first_table`;
