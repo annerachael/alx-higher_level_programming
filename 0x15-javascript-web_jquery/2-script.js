@@ -1,5 +1,3 @@
-document.addEventListener('DOMContentLoaded', function(){
-	document.querySelector('DIV#red_header').onclick = function(){
-        	document.querySelector('header').style.color = '#FF0000';
-	}
-}
+$('DIV#red_header').click(function () {
+  $('HEADER').css('color', '#FF0000');
+});
